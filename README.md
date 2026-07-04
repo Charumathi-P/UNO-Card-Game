@@ -1,2 +1,24 @@
-# UNO-Card-Game
-Developed a browser-based UNO Card Game using HTML, CSS, and JavaScript featuring AI gameplay, official UNO mechanics (Skip, Reverse, Wild, +2, +4), responsive UI, animations, and score tracking.
+# UNO Card Game
+A browser-based UNO card game built using HTML, CSS, and JavaScript.
+
+## Features
+- AI Opponent
+- UNO Rules
+- Responsive Design
+- Animations
+- Sound Effects
+
+## Technologies
+- HTML
+- CSS
+- JavaScript
+
+## Installation
+git clone <repo>
+Open index.html
+
+## Future Improvements
+- Multiplayer
+- Online Rooms
+- Login
+- Leaderboard
