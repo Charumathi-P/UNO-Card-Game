@@ -1,0 +1,17 @@
+UNO-Card-Game
+│
+├── index.html
+├── style.css
+├── script.js
+│
+├── assets/
+│   ├── cards/
+│   ├── sounds/
+│   └── icons/
+│
+├── README.md
+├── LICENSE
+└── screenshots/
+    ├── home.png
+    ├── gameplay.png
+    └── winner.png
