@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Basic UNO Card Game</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>UNO Card Game</h1>
+
+    <div class="game">
+
+        <div class="computer">
+            <h2>Computer Cards</h2>
+            <div id="computerCards"></div>
+        </div>
+
+        <div class="center">
+
+            <div class="pile">
+                <h3>Draw Pile</h3>
+                <button id="drawBtn">Draw Card</button>
+            </div>
+
+            <div class="discard">
+                <h3>Discard Pile</h3>
+                <div id="topCard" class="card">?</div>
+            </div>
+
+        </div>
+
+        <div class="player">
+            <h2>Your Cards</h2>
+            <div id="playerCards"></div>
+        </div>
+
+    </div>
+
+    <button id="restartBtn">Restart Game</button>
+
+    <p id="message"></p>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
